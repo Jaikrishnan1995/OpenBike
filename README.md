@@ -1,15 +1,27 @@
 # OpenBike
-Open Source Electric Motorcycle
+Project Open Source Electric Motorcycle
 
 
-#The Philosophy
+# The Philosophy
 
 blah blah blah !
 Needed an electric bike which can give good acceleration.
-It has to be reliable and easy to make
+It has to be reliable and easy to make.
 
 
 
-#The Plan
+# The Proto Plan
 
+1. Which chassis to use ?
+
+..1.Yamaha rx 135 chassis
+    Reference-style: 
+    ![alt text][logo]
+    [logo]: https://github.com//markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+2. which motor to use ?
+3. which battery to use ?
+4. what mods ?
+5. what safety things to add ?
+6. brakes and shocks
+7. Battery
 
