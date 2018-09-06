@@ -13,11 +13,6 @@ It has to be reliable and easy to make.
 # The Proto Plan
 
 1. Which chassis to use ?
-
-..1.Yamaha rx 135 chassis
-    Reference-style: 
-    ![alt text][logo]
-    [logo]: https://github.com//markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 2. which motor to use ?
 3. which battery to use ?
 4. what mods ?
@@ -25,3 +20,12 @@ It has to be reliable and easy to make.
 6. brakes and shocks
 7. Battery
 
+
+# Chassis Selection
+
+Options
+
+Reference-style: 
+![alt text][logo]
+[logo]: https://github.com/jaikrishnan1995/OpenBike/openbike/Photos/ktm_chassis.jpg
+    
