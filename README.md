@@ -25,7 +25,5 @@ It has to be reliable and easy to make.
 
 Options
 
-Reference-style: 
-![alt text][ktm]
-[ktm]: https://github.com/jaikrishnan1995/OpenBike/openbike/Photos/ktm_chassis.jpg
-    
+![ktmchassis](OpenBike/openbike/Photos/ktm_chassis.jpg)
+Format: ![Alt Text](url)    
