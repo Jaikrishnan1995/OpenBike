@@ -27,9 +27,8 @@ Options
 
 <h1 align="center">
   <a href="https://github.com/jaikrishnan1995/OpenBike/openbike/Photos/ktm_chassis.jpg" title="KTM Chassis">
-    <img alt="KTM-Chassis" src="https://github.com/jaikrishnan1995/OpenBike/openbike/Photos/ktm_chassis.jpg" width="200px" height="200px" />
+    <img alt="KTM-Chassis" src="https://github.com/jaikrishnan1995/OpenBike/openbike/Photos/ktm_chassis.jpg" width="600px" height="338px" />
   </a>
   <br />
-  Awesome CV
 </h1>
 
