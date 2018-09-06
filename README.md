@@ -26,6 +26,6 @@ It has to be reliable and easy to make.
 Options
 
 Reference-style: 
-![alt text][logo]
-[logo]: https://github.com/jaikrishnan1995/OpenBike/openbike/Photos/ktm_chassis.jpg
+![alt text][ktm]
+[ktm]: https://github.com/jaikrishnan1995/OpenBike/openbike/Photos/ktm_chassis.jpg
     
