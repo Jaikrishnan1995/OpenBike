@@ -25,5 +25,11 @@ It has to be reliable and easy to make.
 
 Options
 
-![ktmchassis](OpenBike/openbike/Photos/ktm_chassis.jpg)
-Format: ![Alt Text](url)    
+<h1 align="center">
+  <a href="https://github.com/jaikrishnan1995/OpenBike/openbike/Photos/ktm_chassis.jpg" title="KTM Chassis">
+    <img alt="AwesomeCV" src="https://github.com/jaikrishnan1995/OpenBike/openbike/Photos/ktm_chassis.jpg" width="200px" height="200px" />
+  </a>
+  <br />
+  Awesome CV
+</h1>
+
