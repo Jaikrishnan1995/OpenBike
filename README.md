@@ -28,5 +28,5 @@ Options
 ## KTM Duke 200 chassis
 ![alt text](https://raw.githubusercontent.com/Jaikrishnan1995/OpenBike/master/openbike/Photos/ktm_chassis.jpg)
 ## pulsar 180 chassis
-
+![alt text](https://raw.githubusercontent.com/Jaikrishnan1995/OpenBike/master/openbike/Photos/pulsar_180.png)
 
