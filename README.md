@@ -25,10 +25,5 @@ It has to be reliable and easy to make.
 
 Options
 
-<h1 align="center">
-  <a href="https://github.com/jaikrishnan1995/OpenBike/openbike/Photos/ktm_chassis.jpg" title="KTM Chassis">
-    <img alt="KTM-Chassis" src="https://github.com/jaikrishnan1995/OpenBike/openbike/Photos/ktm_chassis.jpg" width="600px" height="338px" />
-  </a>
-  <br />
-</h1>
+![alt text](https://raw.githubusercontent.com/Jaikrishnan1995/OpenBike/master/openbike/Photos/ktm_chassis.jpg)
 
