@@ -33,3 +33,9 @@ Options
 ### Ground Clearance (mm) : 165 mm
 ### Wheelbase(mm) : 1345 mm
 ### Frame Weight : 23 Kg
+
+
+# Motor
+
+[Motorlink](https://www.google.com)
+
